@@ -1,0 +1,17 @@
+{
+  "Layout": {
+    "Container": {
+      "desc": "Apply the max-width of an element to fix its width to the current breakpoint.",
+      "classes": [
+        {
+          "class": "none",
+          "value": "width: 100%"
+        },
+        {
+          "class": "sm:",
+          "value": "640px"
+        }
+      ]
+    }
+  }
+}
